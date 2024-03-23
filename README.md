@@ -9,6 +9,11 @@ Download the source code. In the directory run:
 ```bash
 pip install -r requirements.txt
 ```
+Afterwards you can run artwork.py:
+
+```bash
+python artwork.py
+```
 
 ## Usage
 
